@@ -1,0 +1,89 @@
+
+
+.container{
+    height: 100px;
+    top: 188px;
+    background-color: #010830;  
+}
+
+.home-style,  .about-us-style, .team-style, .services-style, .opportunities-style, .regulatory-style, .resources-style, .testimonial-style, .contact-us-style{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 30px auto;
+}
+
+.home-style{
+    height: 21.9px;
+    position: absolute;
+    top: 227.31px;
+    left: 126px;
+
+}
+
+.about-us-style{
+    height: 21.9px;
+    position: absolute;
+    top: 227.31px;
+    left: 230.94px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex; 
+    align-items: center;
+    height: 100%;
+}
+
+.team-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 363.25px;
+    position: absolute;
+}
+
+.services-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 461.8px;
+    position: absolute;    
+}
+
+.opportunities-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 584.08px;
+    position: absolute;    
+}
+
+.regulatory-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 760.19px;
+    position: absolute;    
+}
+
+.resources-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 908.93px;
+    position: absolute;    
+}
+
+.testimonial-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 1051.28px;
+    position: absolute    
+}
+
+.contact-us-style{
+    height: 21.9px;
+    top: 227.31px;
+    left: 1213.71px;
+    position: absolute;    
+}

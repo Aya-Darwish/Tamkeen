@@ -1,0 +1,54 @@
+.title-why{
+    height: 117px;
+    top: 5938px;
+    position: absolute;
+    left: 141px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #010830;  
+    text-align: left;    
+}
+
+.text-why{
+    height: 336px;
+    position: absolute;
+    top: 6100px;
+    left: 141px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    color: #010830;    
+    text-align: left;    
+}
+
+span{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 153%;
+    letter-spacing: 0%;    
+}
+
+#palmayra{
+    height: 490px;
+    position: absolute;
+    top: 6156px;
+    left: 525px;
+    rotate: -180 deg;
+    z-index: 1;
+
+}
+
+#a-letter{
+
+    top: 5997px;
+    left: 1193px;
+    rotate: -90 deg;
+    z-index: 0;   
+    position: absolute; 
+}

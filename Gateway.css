@@ -1,0 +1,48 @@
+.title{
+    width: 819px;
+    height: 117px;
+    position: absolute;
+    top: 1063px;
+    left: 311px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #010830;      
+}
+
+.welcome{
+    width: 1033px;
+    height: 248px;
+    position: absolute;
+    top: 1257px;
+    left: 204px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #010830;  
+    margin: 20px auto;
+}
+
+span{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+#let{
+    margin: 20px auto;
+    position: absolute;
+    top: 978px;
+    left: 1340px;
+    rotate: -90 deg;
+}
