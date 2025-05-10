@@ -1,0 +1,31 @@
+.back{
+    background-image: url('c:/Users/ayada/Downloads/Website Image 1 (4).png');
+    height: 632px;
+    top: 288px;
+    left: 1440px;
+    rotate: -180;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#text{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    height: 293px;
+    position: absolute;
+    top: 458px;
+    left: 120px;
+    color: white; 
+    text-align: left;       
+}
+
+#img{
+    width: 368.76px;
+    height: 511.73px;
+    position: absolute;
+    top: 377px;
+    left: 989px;
+}

@@ -1,0 +1,109 @@
+.includes{
+    width: 1506px;
+    height: 773px;
+    position: absolute;
+    top: 4990px;
+    background-color: #F4F4F4;
+    margin: 0 auto;
+}
+
+.center{
+    width: 537px;
+    height: 60px;
+    top: 50px;
+    left: 452px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #010830;  
+    position: absolute;
+}
+
+.left{
+    width: 264px;
+    height: 163px;
+    top: 100px;
+    left: 141px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110.00000000000001%;
+    letter-spacing: 0%;
+    position: absolute;  
+    text-align: left;  
+    margin-top: 150px;
+}
+
+.rectange{
+    width: 98px;
+    height: 29px;
+    position: absolute;
+    top: 350px;
+    left: 141px;
+    background-color: #010830; 
+    margin-top: 100px;  
+}
+
+.ser1{
+    width: 305px;
+    height: 438px;
+    position: absolute;
+    top: 200px;
+    left: 492px;
+    background-color: #DCDCDC;  
+}
+
+.ser2{
+    width: 305px;
+    height: 438px;
+    top: 200px;
+    left: 865px;
+    background-color: #DCDCDC; 
+    position: absolute;
+
+}
+
+.ser3{
+    width: 275px;
+    height: 438px;
+    top: 200px;
+    left: 1238px;
+    background-color: #010830; 
+    position: absolute;
+}
+
+.more{
+    width: 222px;
+    height: 110px;
+    top: 5326px;
+    left: 1279px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110.00000000000001%;
+    letter-spacing: 0%;
+    color: #ffffff;
+    position: static;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.row{
+    width: 98px;
+    height: 29px;
+    top: 5513px;
+    left: 1279px;
+    background-color: #ffffff;    
+    position: static;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.left, .rectange, .ser2 , .ser3{
+    display: inline-block;
+
+}

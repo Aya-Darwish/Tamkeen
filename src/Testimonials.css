@@ -1,0 +1,95 @@
+
+.people {
+    height: 773px;
+    position: relative;
+    top: 4500px;
+    background-color: #F4F4F4;
+}
+
+#title-testimonials {
+    width: 537px;
+    height: 60px;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    position: absolute;
+    text-align: center;
+    color: #010830;
+    position: absolute;
+}
+
+.boss-quote {
+    width: 819px;
+    height: 147px;
+    top: 7122px;
+    left: 311px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    text-align: center; 
+    position: static; 
+    color: #FFFFFF;   
+}
+
+.boss {
+    margin: 0 auto;
+    width: 429px;
+    height: 36px;
+    position: static;
+    top: 7319px;
+    left: 506px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;   
+}
+
+ span { 
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: inherit; 
+}
+
+.person {
+    width: 1043px;
+    height: 433px;
+    top: 150px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #010830;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.double{
+    margin: 0 auto;
+    width: 127px;
+    height: 75px;
+    top: 7005px;
+    left: 100px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 153%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #ffffff;       
+    position: static; 
+}
