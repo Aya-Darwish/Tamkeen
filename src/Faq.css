@@ -1,5 +1,5 @@
 .contain{
-
+    width: 1509px;
     position: absolute;
     top: 9000px;
     background-color: #F4F4F4;
@@ -30,6 +30,7 @@
 }
 
 .answer-container{
+    
         overflow: hidden;
         height: 104px;
         top: 8957px;
@@ -39,7 +40,6 @@
         justify-content: center;
         border-bottom-left-radius: 30px;
         background-color: white;
-        
 }
 
 .answer-sentence{

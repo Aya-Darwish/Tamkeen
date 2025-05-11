@@ -46,5 +46,15 @@ span{
     top: 8100px;
     left: 850px;
     rotate: 90 deg;
-    z-index: 0;    
+    z-index: 0;   
+    animation: rotate-circle 4s linear infinite;
+}
+
+@keyframes rotate-circle {
+  0% {
+    transform: rotate(0deg) translateX(25px) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translateX(25px) rotate(-360deg);
+  }
 }

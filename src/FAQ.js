@@ -16,16 +16,16 @@ function ToggleComponent() {
     <div className='contain'>
         <h1 className='title-contain'>FAQs</h1>
         <div  className='question-and-answer-container'>
-      <div onClick={handleClick} className='question-container'>
-        <p className='question-sentence'>{questionAnswer[0].question}</p>
-      </div>
+          <div onClick={handleClick} className='question-container'>
+            <p className='question-sentence'>{questionAnswer[0].question}</p>
+          </div>
 
-      {isVisible && (
-        <div className='answer-container'>
-          <p className='answer-sentence'>{questionAnswer[0].answer}</p>
-        </div>
+        {isVisible && (
+          <div className='answer-container'>
+            <p className='answer-sentence'>{questionAnswer[0].answer}</p>
+          </div>
         
-      )}
+        )}
       </div>
     </div>
   );
